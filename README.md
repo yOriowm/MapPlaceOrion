@@ -1,6 +1,6 @@
-minimap for pixelplace made by MARCOS
+minimap for pixelplace made by MARCOSemfXD
 if you want a template contact me by discord
 
-Discordia: Young marcos# 0800
+Discordia: Young marcos#0800
 discord.io/pixelplace
 discord.io/cyanzone
