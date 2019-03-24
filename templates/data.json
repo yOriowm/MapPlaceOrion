@@ -1,23 +1,16 @@
 {
-  "Coq": {
-    "name": "coq.png",
-    "x": 1221,
-    "y": -645,
-    "width": 140,
-    "height": 153
-   },
-  "SaldrBayragi": {
-    "name": "SaldrBayragi.png",
-    "x": 2328,
-    "y": -1238,
-    "width": 345,
-    "height": 244
-   },
-  "CentralTurkeyFlag": {
-    "name": "CentralTurkeyFlag.png",
-    "x": 862,
-    "y": -505,
-    "width": 327,
-    "height": 217
+ "fuhrermarcos": {
+  "name": "fuhrermarcos.png",
+  "x": 266,
+  "y": -434,
+  "width": 174,
+  "height": 174
+  },
+ "template2": {
+  "name": "template2.png",
+  "x": -7193,
+  "y": -110,
+  "width": 117,
+  "height": 117
   }
 }
