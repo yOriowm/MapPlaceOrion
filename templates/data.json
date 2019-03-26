@@ -1,16 +1,44 @@
 {
- "idk": {
-  "name": "idk",
-  "x": 0,
-  "y": 0,
-  "width": 0,
-  "height": 0
+ "avatardiscord_playerB": {
+  "name": "avatardiscord_playerB",
+  "x": -3502,
+  "y": -3502,
+  "width": 304,
+  "height": 323
   },
- "jijo": {
-  "name": "jijo.png",
-  "x": 144,
-  "y": -266,
-  "width": 73,
-  "height": 32
+ "Teemo1": {
+  "name": "Teemo1.png",
+  "x": -5000,
+  "y": 2487,
+  "width": 373,
+  "height": 210
+   },
+ "Teemo3": {
+  "name": "Teemo3.png",
+  "x": -5000,
+  "y": 2487,
+  "width": 373,
+  "height": 450
+  },
+ "BCfull": {
+  "name": "BCfull.png",
+  "x": -1471,
+  "y": 150,
+  "width": 1308,
+  "height": 1060
+   },
+ "corint": {
+  "name": "corint.png",
+  "x": -2712,
+  "y": 0,
+  "width": 724,
+  "height": 457
+  },
+ "powergab": {
+  "name": "powergab.png",
+  "x": -3106,
+  "y": 2911,
+  "width": 212,
+  "height": 180
   }
 }
