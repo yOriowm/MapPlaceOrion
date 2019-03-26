@@ -41,6 +41,63 @@
   "width": 212,
   "height": 180
    },
+ "BA1": {
+  "name": "BA1.png",
+  "x": 2500,
+  "y": 4802,
+  "width": 500,
+  "height": 500
+    },
+ "BA2": {
+  "name": "BA2.png",
+  "x": 2681,
+  "y": 4774,
+  "width": 307,
+  "height": 30
+    },
+ "BA3": {
+  "name": "BA3.png",
+  "x": 2901,
+  "y": 4805,
+  "width": 96,
+  "height": 64
+   },
+ "BA4": {
+  "name": "BA4.png",
+  "x": 2901,
+  "y": 4869,
+  "width": 75,
+  "height": 100
+   },
+ "BA5": {
+  "name": "BA5.png",
+  "x": 2526,
+  "y": 4805,
+  "width": 75,
+  "height": 100
+   },
+ "BA6": {
+  "name": "BA6.png",
+  "x": 2602,
+  "y": 4805,
+  "width": 150,
+  "height": 150
+   },
+ "BA7": {
+  "name": "BA7.png",
+  "x": 2761,
+  "y": 4805,
+  "width": 175,
+  "height": 150
+   },
+ "BA8": {
+  "name": "BA8.png",
+  "x": 2100,
+  "y": 4525,
+  "width": 400,
+  "height": 280
+  }
+   },
  "0": {
   "name": "0.png",
   "x": 0,
