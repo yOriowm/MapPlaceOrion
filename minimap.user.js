@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Minimap PP 
-// @namespace    https://discord.io/cyanzone - https://discord.io/pixelplace
+// @name         Minimap do yOriowm 
+// @namespace    Minimap do yOriowm
 // @version      1.0.0
-// @description  Minimapa PIXELPLACE.FUN - Young marcos#0800
-// @author       Marcos-Emf
+// @description  Minimap do yOriowm
+// @author       yOriowm
 // @match        https://pixelplace.fun/*
 // @match        http://pixelplace.fun/*
-// @homepage     https://github.com/Marxarg/placearg
-// @updateURL    https://raw.githubusercontent.com/Marxarg/placearg/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Marxarg/placearg/master/minimap.user.js
+// @homepage     https://github.com/yOriowm/MapPlaceOrion
+// @updateURL    https://raw.githubusercontent.com/yOriowm/MapPlaceOrion/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/yOriowm/MapPlaceOrion/master/minimap.user.js
 // @grant        none
 // @run-at      document-idle
 // ==/UserScript==
